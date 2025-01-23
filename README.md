@@ -1,7 +1,3 @@
-# Dashboard Preview Image for the above project.
-
-
-
 
 # **MacDonald's Sales 2024 Dashboard**
 
